@@ -1,23 +1,12 @@
 # havi_hackathon
-Requirements- 
-Sign-up
-login
-View list
-Add data from list 
+Requirements- Sign-up,login,View list,Add data from list 
 
-programming laguages used 
-html
-php
-mysql
+programming laguages used -html,php,mysql
 
-software used
-xammp
-visual studios
+software used-xammp,visual studios
 
 workflow-
-There are two types of users for this
-Student
-Admin
+There are two types of users for this 1)Student 2)Admin
 
 1)student
 >>New student can sign up by giving details.
