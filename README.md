@@ -21,4 +21,6 @@ There are two types of users for this 1)Student 2)Admin
 >>Admin can also delete the student from database.
 
 
+# admin id= admin
+# password = 123456
 
